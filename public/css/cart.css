@@ -1,0 +1,14 @@
+.cart {
+  list-style: none;
+  padding: 0;
+}
+
+.cart__item {
+  max-width: 450px;
+  width: 100%;
+  padding: 15px;
+  margin: 0 auto 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
